@@ -1,6 +1,6 @@
 # B9 | First place winning app in the Amsterdam 3D Hackathon 2019
 
-![Group Photo](/group.jpg)
+![Group Photo](./group.JPG)
 
 > Includes Vue project, Unity WebGL build and Unity source package.
 
