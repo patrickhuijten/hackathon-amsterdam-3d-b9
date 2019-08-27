@@ -441,7 +441,7 @@ export default {
     if (this.active) {
       this.gameInstance = UnityLoader.instantiate(
         "gameContainer",
-        "../../unity/Build/unity.json"
+        "../unity/Build/unity.json"
       );
     }
   }
