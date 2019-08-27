@@ -3,7 +3,7 @@
            <!-- Navigation -->
   <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
-      <a class="navbar-brand" href="#"><img src="../images/ams-icon-header.png" width="140" /></a>
+      <a class="navbar-brand" href="#"><img src="../images/ams-icon.png" width="140" /></a>
     </div>
   </nav>
 

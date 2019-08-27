@@ -80,7 +80,7 @@ We believe in “by the people for the people.” We are happy to have joined fo
                 >
                   <h6>Build Park For The People</h6>
                   <img
-                    src="https://hondsrugpark.nl/online/wp-content/uploads/2018/07/freezone-hondsrugpark-768v3.jpg"
+                    src="../images/hondsrugweg-high-level-resize.png"
                     class="img-fluid"
                   >
                 </li>
@@ -96,7 +96,7 @@ We believe in “by the people for the people.” We are happy to have joined fo
             <!-- section 3 -->
             <div class="section col w-100 h-100" v-if="dashboardIndex == 2">
               <img
-                src="https://hondsrugpark.nl/online/wp-content/uploads/2018/07/freezone-hondsrugpark-768v3.jpg"
+                src="../images/hondsrugweg-high-level-resize.png"
                 class="img-fluid"
               >
               <hr class="border-light">
@@ -151,7 +151,7 @@ We love our park. Now we want to play in it! Do you want a gym? A skate park? A 
         >
           <img
             class="card-img"
-            src="https://hondsrugpark.nl/online/wp-content/uploads/2018/07/freezone-hondsrugpark-768v3.jpg"
+            src="../images/hondsrugweg-high-level-resize.png"
             style="opacity:0.1"
           >
 

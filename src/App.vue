@@ -1,7 +1,6 @@
 <template>
   <div id="app" class="m-0">
-    <header>
-    </header>
+    <header />
     <div class="container-fluid p-0">
     <page-home />
     <page-player />
@@ -35,12 +34,7 @@ Vue.component('page-home', PageHome);
 Vue.component('page-player', PagePlayer);
 Vue.component('page-footer', PageFooter);
 export default {
-  name: 'app',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
+  name: 'app'
 }
 </script>
 

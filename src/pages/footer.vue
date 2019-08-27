@@ -76,7 +76,7 @@
               <a href="#">Privacy Policy</a>
             </li>
           </ul>
-          <p class="text-muted small mb-4 mb-lg-0">&copy; Your Website 2018. All Rights Reserved.</p>
+          <p class="text-muted small mb-4 mb-lg-0">&copy; {{name}} {{new Date().getYear() + 1900}} All Rights Reserved.</p>
         </div>
         <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
           <ul class="list-inline mb-0">
@@ -104,10 +104,12 @@
     </div>
 </template>
 <script>
+import pkg from '../../package.json';
+
 export default{
 data() {
     return {
-        id:0
+        name:pkg.name
     }
 },
 }
